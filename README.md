@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @AayushJ2005<br>- 👀 I’m interested in Full stack Development<br>- 🌱 I’m currently learning Javascript<br>- 📫 How to reach me - aayushjindal2017@gmail.com
+- 👋 Hi, I’m Aayush Jindal<br>- 👀 I’m interested in Full stack Development<br>- 🌱 I’m currently learning Javascript<br>- 📫 How to reach me - aayushjindal2017@gmail.com
 
 
 ## 🌐 Socials:
