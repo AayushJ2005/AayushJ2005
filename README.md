@@ -10,7 +10,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AayushJ2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AayushJ2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AayushJ2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarthgarg14&theme=tokyo-night&hide_border=true" />
+</p>username=AayushJ2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AayushJ2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
